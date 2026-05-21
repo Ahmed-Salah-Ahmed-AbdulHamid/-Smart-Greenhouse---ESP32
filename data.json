@@ -1,0 +1,1705 @@
+{
+  "AI_Decision": {
+    "pump": 1
+  },
+  "SensorLogs": {
+    "-Opya4ufWwVi6pOjI11A": {
+      "Humidity": 60,
+      "Light": 12,
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OpyaJOXr6sDPd5wgKbA": {
+      "Humidity": 60,
+      "Light": 32,
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OpyaY2H__ySccdbBOeL": {
+      "Humidity": 60,
+      "Light": 12,
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Opyaly5UrR1b3SYcXrz": {
+      "Humidity": 60,
+      "Light": 11,
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Opyb-LrH62DwjUTXcWN": {
+      "Humidity": 60,
+      "Light": 11,
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OpybDzqKIsLLWaIU31C": {
+      "Humidity": 60,
+      "Light": 11,
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OpybSchRflwyebvucBz": {
+      "Humidity": 60,
+      "Light": 11,
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OpybgUUf6TlVyLP56Av": {
+      "Humidity": 60,
+      "Light": 11,
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OpybuvhC8rNXi6WEpPc": {
+      "Humidity": 60,
+      "Light": 11,
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Opyc8_kC1tILyZj2Wb8": {
+      "Humidity": 60,
+      "Light": 11,
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OpycNDrJVi4oactxk_1": {
+      "Humidity": 60,
+      "Light": 11,
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Opycb4wX8HWrJrswcjJ": {
+      "Humidity": 60,
+      "Light": 11,
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OpycpX46hUSxK2NXzU6": {
+      "Humidity": 60,
+      "Light": 11,
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Opyd3AGbmCOMDYFZL04": {
+      "Humidity": 60,
+      "Light": 11,
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OpydHpIZ4hgnvhU50c9": {
+      "Humidity": 60,
+      "Light": 11,
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-MI29u74WTeGtgzN0": {
+      "Humidity": 60,
+      "Light": 18,
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-MWV1Q8EXoQmwBTej": {
+      "Humidity": 60,
+      "Light": 17,
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-Mk8ZJ3WDzaRVguVs": {
+      "Humidity": 60,
+      "Light": 17,
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-Myzw-NE26jizvQqo": {
+      "Humidity": 60,
+      "Light": 17,
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-NCSZOiW0WabtO3Oe": {
+      "Humidity": 60,
+      "Light": 17,
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-NR66n4cUyTRHHexF": {
+      "Humidity": 60,
+      "Light": 17,
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-NekO_e5ae0ElZKec": {
+      "Humidity": 60,
+      "Light": 17,
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-NtaK04gQxMH7iVwt": {
+      "Humidity": 60,
+      "Light": 17,
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-O72cuCi9vYe4hNR3": {
+      "Humidity": 60,
+      "Light": 17,
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-OLhEViUBxg2V4xo5": {
+      "Humidity": 60,
+      "Light": 17,
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-O_WbGeqlBLGQWA_d": {
+      "Humidity": 60,
+      "Light": 18,
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-OnzAGTajkZHk1A3j": {
+      "Humidity": 60,
+      "Light": 17,
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-P1cem8Gq1eGsEjUh": {
+      "Humidity": 60,
+      "Light": 17,
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-PGHVCVzWpvSiePCP": {
+      "Humidity": 60,
+      "Light": 17,
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-PVK80LGpFu07M2RN": {
+      "Humidity": 60,
+      "Light": 17,
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-eIfHJ_JYAMChIhRf": {
+      "Humidity": 60,
+      "Light": 4,
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-eX4iJd1C9F4QNNA9": {
+      "Humidity": 60,
+      "Light": 8,
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-ekjFKgAnmr8-Ibzt": {
+      "Humidity": 60,
+      "Light": 28,
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-ezOX4PTfsDS5FFut": {
+      "Humidity": 60,
+      "Light": 30,
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-fDGg7fRUFab30bmF": {
+      "Humidity": 60,
+      "Light": 30,
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-fRfQTpyQVm2qHNZt": {
+      "Humidity": 60,
+      "Light": 20,
+      "Pump_State": 0,
+      "Soil_Moisture": 76,
+      "Temperature": 25
+    },
+    "-Oq-gUsGn7egEMg4QCGM": {
+      "Mode": "Auto",
+      "Pump_State": 0,
+      "Soil_Moisture": 41,
+      "Temperature": 25
+    },
+    "-Oq-giFGc94fPv-bfiFR": {
+      "Mode": "Auto",
+      "Pump_State": 0,
+      "Soil_Moisture": 70,
+      "Temperature": 25
+    },
+    "-Oq-gwtmFoXxLsJCrnkc": {
+      "Mode": "Auto",
+      "Pump_State": 0,
+      "Soil_Moisture": 66,
+      "Temperature": 25
+    },
+    "-Oq-hAmB3-CdiAbK02Y-": {
+      "Mode": "Auto",
+      "Pump_State": 0,
+      "Soil_Moisture": 56,
+      "Temperature": 25
+    },
+    "-Oq-hPApX6LfTsQ48RHj": {
+      "Mode": "Auto",
+      "Pump_State": 0,
+      "Soil_Moisture": 15,
+      "Temperature": 25
+    },
+    "-Oq-hcpDVcHR6TOWvknb": {
+      "Mode": "Auto",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-hrTnFZHd6NfvvF16": {
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-i5QRcmLK-rydTxKp": {
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-iJllLq2uoX96hpg7": {
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-iYQFXlWLxZdTOfHR": {
+      "Mode": "Auto",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-im41PmJ3Cw37iqPM": {
+      "Mode": "Manual",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-j-vDZ00KoWK6LA5x": {
+      "Mode": "Manual",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-jEMu9dvHMJGSJMHC": {
+      "Mode": "Manual",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-jq10_m46H9UsLdd9": {
+      "Mode": "Auto",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-k3KjWELhsbwtZPOA": {
+      "Mode": "Manual",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-kdTSOwzXHOOjUQh9": {
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-lj8_F-3OG5HBX03F": {
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-mEWdP5dKO8q1YLB0": {
+      "Humidity": 60,
+      "Light": 32,
+      "Mode": "Auto",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-mSxOwW3ZuUga5lZ_": {
+      "Humidity": 60,
+      "Light": 26,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-mgb3oWWb03BvjLEq": {
+      "Humidity": 60,
+      "Light": 31,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-mvFXhOho53k_gi-4": {
+      "Humidity": 60,
+      "Light": 28,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-nAPWu2UKPsF_zJe1": {
+      "Humidity": 60,
+      "Light": 30,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-nNYOovE-oetpm3ny": {
+      "Humidity": 60,
+      "Light": 31,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-nbC2Vj_asqIuLWvU": {
+      "Humidity": 60,
+      "Light": 30,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-npqTnU1bguYBON6m": {
+      "Humidity": 60,
+      "Light": 29,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-o3fGotjqkKMGFwjE": {
+      "Humidity": 60,
+      "Light": 26,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-oI8PwSa6KzeVH1uN": {
+      "Humidity": 60,
+      "Light": 18,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 17,
+      "Temperature": 25
+    },
+    "-Oq-q1ip4lbCQ4ClqX-3": {
+      "Humidity": 60,
+      "Light": 32,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-qG2dxoQeeCQ_A-yA": {
+      "Humidity": 60,
+      "Light": 28,
+      "Mode": "Manual",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-qUh1UzOLCNtlTqUQ": {
+      "Humidity": 60,
+      "Light": 28,
+      "Mode": "Manual",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-qiLJ6ALqi3h6b6wB": {
+      "Humidity": 60,
+      "Light": 29,
+      "Mode": "Manual",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-rBANCbMirOuW1FZ3": {
+      "Humidity": 60,
+      "Light": 29,
+      "Mode": "Manual",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-rPVapjCpfoGN6xwJ": {
+      "Humidity": 60,
+      "Light": 30,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-rd75e2o8kMXZl1Vv": {
+      "Humidity": 60,
+      "Light": 28,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-rra2Qu4PyJXCtWXB": {
+      "Humidity": 60,
+      "Light": 26,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-s5EZRNL6e_7Jwnpm": {
+      "Humidity": 60,
+      "Light": 26,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-sJsyNLgUybWn4qI7": {
+      "Humidity": 60,
+      "Light": 27,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-sYlseSdLWlfgWguV": {
+      "Humidity": 60,
+      "Light": 27,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-smBMmIrQWnnm53Zz": {
+      "Humidity": 60,
+      "Light": 27,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-t-peC1Nqlt0PdjVa": {
+      "Humidity": 60,
+      "Light": 27,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-tEWKGzz0qizk55FJ": {
+      "Humidity": 60,
+      "Light": 25,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-tTRzkqdJiQts3c5A": {
+      "Humidity": 60,
+      "Light": 27,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-tgm7ZoatEy9jxoD7": {
+      "Humidity": 60,
+      "Light": 27,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-tvQmK1yhKXrj4JAU": {
+      "Humidity": 60,
+      "Light": 27,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-u94EEO7dzVmHWBiU": {
+      "Humidity": 60,
+      "Light": 27,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-uO-R2_hSJtxlqmCR": {
+      "Humidity": 60,
+      "Light": 27,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-ubNM--EScN50BBMW": {
+      "Humidity": 60,
+      "Light": 26,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-uq0jtEaOYWx19z6a": {
+      "Humidity": 60,
+      "Light": 27,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-v3fAC9w-YLDNrz4y": {
+      "Humidity": 60,
+      "Light": 26,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-vIbNKpm34AG896on": {
+      "Humidity": 60,
+      "Light": 26,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-vWyKugQI3mbMl12s": {
+      "Humidity": 60,
+      "Light": 25,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-vkdmIfqTbSZcVrCD": {
+      "Humidity": 60,
+      "Light": 27,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-vzG8Xa8pWw8CD4P0": {
+      "Humidity": 60,
+      "Light": 26,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-wD97HI9qIam3ijx1": {
+      "Humidity": 60,
+      "Light": 31,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-wRZBbPtMmWBRIs1n": {
+      "Humidity": 60,
+      "Light": 31,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-wfCjtj_4qgvjREl5": {
+      "Humidity": 60,
+      "Light": 31,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-wtrNRiByLGheqc_H": {
+      "Humidity": 60,
+      "Light": 31,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-x7k6_SkSPJZ4ZKN5": {
+      "Humidity": 60,
+      "Light": 30,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-xM9JPCo1dDFALP9G": {
+      "Humidity": 60,
+      "Light": 31,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-x_ngClSP1vxZoHmY": {
+      "Humidity": 60,
+      "Light": 31,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-xoSE0mSTlM5PWWtN": {
+      "Humidity": 60,
+      "Light": 31,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-y2QfKhRC4m8ADGEc": {
+      "Humidity": 60,
+      "Light": 31,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-yGkEXtvR8rbTUMK3": {
+      "Humidity": 60,
+      "Light": 30,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-yVOqfMMPfl8NZpoy": {
+      "Humidity": 60,
+      "Light": 31,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-yjFLPJGsEJcfhlxq": {
+      "Humidity": 60,
+      "Light": 31,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-yxhInNZ7Xp_okHGH": {
+      "Humidity": 60,
+      "Light": 30,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-zBLqfdbshDBySyvU": {
+      "Humidity": 60,
+      "Light": 31,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-zPzrI-u9nrXINAg8": {
+      "Humidity": 60,
+      "Light": 30,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-zdsB85CdA1Y1Y3g_": {
+      "Humidity": 60,
+      "Light": 31,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq-zsHx7RHXCxsQf6ni": {
+      "Humidity": 60,
+      "Light": 30,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq0-5wAsRKVkWlgFfst": {
+      "Humidity": 60,
+      "Light": 31,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq0-Kr3PVIQIr7APAn_": {
+      "Humidity": 60,
+      "Light": 31,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq0-ZE9fP3sE6bzF7Ki": {
+      "Humidity": 60,
+      "Light": 30,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq0-mt-PgyxLocvTCP2": {
+      "Humidity": 60,
+      "Light": 27,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq000YFZoOf439zUcum": {
+      "Humidity": 60,
+      "Light": 29,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq00FTd8tZItv6bdph8": {
+      "Humidity": 60,
+      "Light": 29,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq00TpJFC9-yTZdToir": {
+      "Humidity": 60,
+      "Light": 28,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq00hTtGnqTZqGxG7ho": {
+      "Humidity": 60,
+      "Light": 28,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq00w7z0aXtk9ahRpF4": {
+      "Humidity": 60,
+      "Light": 23,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq01A0sIPGlbhVvwNlg": {
+      "Humidity": 60,
+      "Light": 24,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq01OQK-aHsER_BuuBP": {
+      "Humidity": 60,
+      "Light": 27,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq01c4QnbNHuWvegXwD": {
+      "Humidity": 60,
+      "Light": 23,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq01qjEdt5Jk4x5ykQe": {
+      "Humidity": 60,
+      "Light": 30,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq024dp3w75zHLaVDej": {
+      "Humidity": 60,
+      "Light": 30,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq02J0YDOaCTcGlmu8C": {
+      "Humidity": 60,
+      "Light": 29,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq02Xf7le1J0ey6pr5M": {
+      "Humidity": 60,
+      "Light": 29,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq02lezUiJIPdPRDOyu": {
+      "Humidity": 60,
+      "Light": 28,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq02zxrCryg-D58wOoC": {
+      "Humidity": 60,
+      "Light": 30,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq03DddZ-4wWpwJQGle": {
+      "Humidity": 60,
+      "Light": 28,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq03SFqdCe5K8dc8_7p": {
+      "Humidity": 60,
+      "Light": 30,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq06RCk6uDuNGytHfTx": {
+      "Humidity": 60,
+      "Light": 34,
+      "Mode": "Manual",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq06ealEKC8s3v4BuBh": {
+      "Humidity": 60,
+      "Light": 31,
+      "Mode": "Manual",
+      "Pump_State": 1,
+      "Soil_Moisture": 48,
+      "Temperature": 25
+    },
+    "-Oq06szk-4M7f0dwr_BI": {
+      "Humidity": 60,
+      "Light": 32,
+      "Mode": "Auto",
+      "Pump_State": 0,
+      "Soil_Moisture": 39,
+      "Temperature": 25
+    },
+    "-Oq076d3zQKAczNujvFt": {
+      "Humidity": 60,
+      "Light": 32,
+      "Mode": "Auto",
+      "Pump_State": 0,
+      "Soil_Moisture": 34,
+      "Temperature": 25
+    },
+    "-Oq0ACcNqtw0gIaH2N2Q": {
+      "Humidity": 60,
+      "Light": 32,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq0AcKGUKGu4tstzUGr": {
+      "Humidity": 60,
+      "Light": 34,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-Oq0BHK7YEBvYP7TGowR": {
+      "Humidity": 60,
+      "Light": 19,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqAPiCsh-ptmIwh1qLc": {
+      "Humidity": 60,
+      "Light": 29,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 100,
+      "Temperature": 25
+    },
+    "-OqAPwVIY_aP8s0u8g5_": {
+      "Humidity": 60,
+      "Light": 35,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqASe9wpdonC6V96V19": {
+      "Humidity": 60,
+      "Light": 30,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqASsVHtWYnalkl6-CU": {
+      "Humidity": 60,
+      "Light": 31,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqAT68nFX-emCbRAkLB": {
+      "Humidity": 60,
+      "Light": 27,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqATKnK5EV2Uj_qOIJI": {
+      "Humidity": 60,
+      "Light": 28,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqATZiMQ0OsOGwpugLA": {
+      "Humidity": 60,
+      "Light": 35,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqATn6_p2s6n3vNX9Tw": {
+      "Humidity": 60,
+      "Light": 100,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqAU0k7_JKBZOLMxEKp": {
+      "Humidity": 60,
+      "Light": 73,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqAUFOHhLLvFuXjW_OO": {
+      "Humidity": 60,
+      "Light": 22,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqAUUJfBPQANMG3bl3P": {
+      "Humidity": 60,
+      "Light": 17,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqAUhh94RDPNw6M3fUW": {
+      "Humidity": 60,
+      "Light": 13,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqAUwKl-KRF3oTt52wb": {
+      "Humidity": 60,
+      "Light": 26,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqAV9zMXV_RYY-GpiOq": {
+      "Humidity": 60,
+      "Light": 14,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqAVOp1Ivb2MwKZZPq5": {
+      "Humidity": 60,
+      "Light": 17,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqAVcHM2xTz-nTmH1qm": {
+      "Humidity": 60,
+      "Light": 19,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqAVqvosobEAUNdBXyf": {
+      "Humidity": 60,
+      "Light": 20,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqAW4dnnT9xAsRb9Uxl": {
+      "Humidity": 60,
+      "Light": 23,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqA_jWzBqL4xKQmkVQA": {
+      "Humidity": 60,
+      "Light": 8,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqA_xnpxHkFxkM4d_ha": {
+      "Humidity": 60,
+      "Light": 17,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqAaBSLZioWUAvwA6Dq": {
+      "Humidity": 60,
+      "Light": 0,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 22,
+      "Temperature": 25
+    },
+    "-OqAaQ5hnWuzautGIPUd": {
+      "Humidity": 60,
+      "Light": 17,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqAadzKwO3CTAH-iRKb": {
+      "Humidity": 60,
+      "Light": 19,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqAasOpXE7Z7L144GYm": {
+      "Humidity": 60,
+      "Light": 20,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqAb62Cy7a9qQJJOPTT": {
+      "Humidity": 60,
+      "Light": 19,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqAc4jOnhHzOfQuItO8": {
+      "Humidity": 60,
+      "Light": 19,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqAcJMNvB-MB-vYFYYh": {
+      "Humidity": 60,
+      "Light": 19,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqAcY-jN7MPYQQ2n7PE": {
+      "Humidity": 60,
+      "Light": 19,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqAcle_q-fWpwJcuxFl": {
+      "Humidity": 60,
+      "Light": 15,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 22,
+      "Temperature": 25
+    },
+    "-OqAd-J2SHolNMnjEcQS": {
+      "Humidity": 60,
+      "Light": 13,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqAdDxW6qjudhp9No1x": {
+      "Humidity": 60,
+      "Light": 19,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 33,
+      "Temperature": 25
+    },
+    "-OqAdSayIrqrVpUH5mql": {
+      "Humidity": 60,
+      "Light": 16,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 75,
+      "Temperature": 25
+    },
+    "-OqAdgFQalAjQnqUqkFF": {
+      "Humidity": 60,
+      "Light": 19,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqAduu1RL4MgkVBnHAk": {
+      "Humidity": 60,
+      "Light": 18,
+      "Mode": "Auto",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqAeBPr_6vbQVygxSEu": {
+      "Humidity": 60,
+      "Light": 12,
+      "Mode": "Auto",
+      "Pump_State": 0,
+      "Soil_Moisture": 13,
+      "Temperature": 25
+    },
+    "-OqAeg8c9TBZYynBQbSr": {
+      "Humidity": 60,
+      "Light": 9,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqAf4m1bJzD9VE3fdTN": {
+      "Humidity": 60,
+      "Light": 13,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 23,
+      "Temperature": 25
+    },
+    "-OqAfJOclqEqyHyP6yjK": {
+      "Humidity": 60,
+      "Light": 15,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqAf_J1k6qsx0N0t1vg": {
+      "Humidity": 60,
+      "Light": 18,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqAgX2uFszhBHGX8Swc": {
+      "Humidity": 60,
+      "Light": 12,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqAgkhB78LTkOn-7OkA": {
+      "Humidity": 60,
+      "Light": 16,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqAgzLdtktILt01Redy": {
+      "Humidity": 60,
+      "Light": 11,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqAhD-I6DhqW51M5bJ8": {
+      "Humidity": 60,
+      "Light": 7,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqAhRdCuxx9mq9-6bUl": {
+      "Humidity": 60,
+      "Light": 8,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqAhfIOZ0F-tji7tPSv": {
+      "Humidity": 60,
+      "Light": 8,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqAhtwq3qdgLyrmfWX4": {
+      "Humidity": 60,
+      "Light": 18,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqAiPQVloix2fFkNP66": {
+      "Humidity": 60,
+      "Light": 18,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqAid4A5CzAMczoQlUX": {
+      "Humidity": 60,
+      "Light": 18,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqAirinhxBrtk4xecvp": {
+      "Humidity": 60,
+      "Light": 18,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqAj5NK95rTewBXHlB3": {
+      "Humidity": 60,
+      "Light": 17,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqAjmJneaS2kHQ9oTm0": {
+      "Humidity": 60,
+      "Light": 18,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqAk-yek-_LGrG8fXct": {
+      "Humidity": 60,
+      "Light": 17,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqAkEbtDkWfXeVTjuCn": {
+      "Humidity": 60,
+      "Light": 17,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqAkTGBykG5V8RA22Ja": {
+      "Humidity": 60,
+      "Light": 18,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqAub027K8ehTOvt3iq": {
+      "Humidity": 60,
+      "Light": 23,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqAupedFglJSgQwzV8d": {
+      "Humidity": 60,
+      "Light": 26,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqBATBsKrzGuGKQj0AI": {
+      "Humidity": 60,
+      "Light": 22,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqBAgqDpuryNqLvYeZc": {
+      "Humidity": 60,
+      "Light": 21,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqBAvVD7tvm2r8GHgCR": {
+      "Humidity": 60,
+      "Light": 23,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqBB98jBHJFgV3mPGIv": {
+      "Humidity": 60,
+      "Light": 19,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqBBNmmgfZpNRka1lQU": {
+      "Humidity": 60,
+      "Light": 23,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqBBbROsJPKLplm5M36": {
+      "Humidity": 60,
+      "Light": 23,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 40,
+      "Temperature": 25
+    },
+    "-OqBBq4rOZaRJyUDL5Ac": {
+      "Humidity": 60,
+      "Light": 31,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqBC3jLyu97msMdH0je": {
+      "Humidity": 60,
+      "Light": 30,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqBCIOD9gtKgrsqdgrO": {
+      "Humidity": 60,
+      "Light": 32,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqBCX1UvmT9ytRoZ2Au": {
+      "Humidity": 60,
+      "Light": 29,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqBCkfKzsjGO6yyYMeO": {
+      "Humidity": 60,
+      "Light": 29,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqBCzKP-3A1lPW9q6Eq": {
+      "Humidity": 60,
+      "Light": 29,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqBDCyoaUrTbsn4arGj": {
+      "Humidity": 60,
+      "Light": 27,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqBDRc_Z29QMFo7gCJI": {
+      "Humidity": 60,
+      "Light": 30,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqBDfGjx9BbEAf-kPPW": {
+      "Humidity": 60,
+      "Light": 27,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqBDu9WwHBLpsxmE_fm": {
+      "Humidity": 60,
+      "Light": 26,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 1,
+      "Temperature": 25
+    },
+    "-OqBE7ZpSYvvAnU-ZzXI": {
+      "Humidity": 60,
+      "Light": 26,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqBEMDb-IuZFXVxIIc_": {
+      "Humidity": 60,
+      "Light": 24,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqBE_s9l8IsribfPF_y": {
+      "Humidity": 60,
+      "Light": 24,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqBEoWIv0Niz_F5v-Ae": {
+      "Humidity": 60,
+      "Light": 24,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqBF29re5JH2ctLHsIM": {
+      "Humidity": 60,
+      "Light": 17,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqBFGogjMqwuPk3xgAN": {
+      "Humidity": 60,
+      "Light": 15,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqBFVT_gSoGG_SW3zrD": {
+      "Humidity": 60,
+      "Light": 18,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqBFj6osoEhq6jFK_dt": {
+      "Humidity": 60,
+      "Light": 20,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqBFxknwX5Ruit_Z2yn": {
+      "Humidity": 60,
+      "Light": 26,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqBGBPggCEj1_fXKimR": {
+      "Humidity": 60,
+      "Light": 26,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqBGQ2yAJR8eMsEL76R": {
+      "Humidity": 60,
+      "Light": 29,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqBGdhMqniAeV18hyun": {
+      "Humidity": 60,
+      "Light": 26,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqBGsLtE6PWXK4RvAzz": {
+      "Humidity": 60,
+      "Light": 24,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqBH6-oW3a3YPqX7xub": {
+      "Humidity": 60,
+      "Light": 26,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    },
+    "-OqBHTeDckKgc0dq8ACE": {
+      "Humidity": 60,
+      "Light": 27,
+      "Mode": "Auto",
+      "Pump_State": 1,
+      "Soil_Moisture": 61,
+      "Temperature": 25
+    },
+    "-OqBHmnM21EZWnKMqhet": {
+      "Humidity": 60,
+      "Light": 29,
+      "Mode": "Manual",
+      "Pump_State": 0,
+      "Soil_Moisture": 0,
+      "Temperature": 25
+    }
+  }
+}
