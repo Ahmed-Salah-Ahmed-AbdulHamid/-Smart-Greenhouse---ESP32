@@ -116,7 +116,5 @@ Where `A` = Auto mode, `M` = Manual mode.
 
 ---
 
-## 📄 License
 
-MIT License — feel free to use and modify.
 
